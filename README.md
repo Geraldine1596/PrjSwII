@@ -80,3 +80,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Falta un buen equipooooo!
 ##Implemetar ..
+
+## Admin, Docente, Estudiante.
+
+##In order to ensure that the Laravel community is welcoming ##to all, please review and abide by the....
